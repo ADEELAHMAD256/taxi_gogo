@@ -15,7 +15,7 @@ class JobPreview extends StatelessWidget {
   Completer<GoogleMapController> _controller = Completer();
 
   CameraPosition _kGooglePlex = CameraPosition(
-    target: LatLng(37.42796133580664, -122.085749655962),
+    target: LatLng(37.4279613358064, -122.085749655962),
     zoom: 14.4746,
   );
 
