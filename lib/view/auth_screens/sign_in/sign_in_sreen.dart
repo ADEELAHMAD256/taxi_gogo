@@ -19,7 +19,7 @@ class SignInScreen extends GetView<AuthController> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            SizedBox(height: 74.h),
+            SizedBox(height: 75.h),
             Image.asset("assets/images/car_red.png"),
             SizedBox(height: 60.h),
             Padding(
